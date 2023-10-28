@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+.nav{
+    list-style-type: none;
+    background-color: rgba(107, 97, 97, 0.3);
+    text-align: center;
+    margin: 0px;
+    padding: 30px;
+}
+.nav li{
+    display: inline;
+    padding: 8px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 800;
+    color: rgb(25, 39, 39);
+  
+}
